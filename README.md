@@ -1,9 +1,11 @@
-# SL1Pwn - ScienceLogic Sl1 Exploitation
+# SL1Pwn - ScienceLogic SL1 Exploitation
 <p align="center">
   <img src="https://github.com/3NailsInfoSec/SL1Pwn/assets/131826735/38c24789-7936-4e48-9b04-f864453bdcfa">
 </p>
 
 This tool utilizes default credentials to obtain a reverse shell, dump credentials, and login via HTTP and SSH (single or bulk) on ScienceLogic SL1 devices. If default credentials are not correct, you can supply your own.
+## Read:
+<a href ="https://www.3nailsinfosec.com/post/using-discord-s-voice-channel-for-c2-operations">Hacking the Heartbeat Monitor of a Data Center - ScienceLogic SL1</a>
 
 ## Install:
 ```
