@@ -4,6 +4,8 @@
 </p>
 
 This tool utilizes default credentials to obtain a reverse shell, dump credentials, and login via HTTP and SSH (single or bulk) on ScienceLogic SL1 devices. If default credentials are not correct, you can supply your own.
+
+Recognized as <a href ="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-42266">CVE-2023-42266</a>
 ## Read:
 <a href ="https://www.3nailsinfosec.com/post/using-discord-s-voice-channel-for-c2-operations">Hacking the Heartbeat Monitor of a Data Center - ScienceLogic SL1</a>
 
